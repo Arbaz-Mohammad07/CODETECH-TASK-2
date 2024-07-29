@@ -47,7 +47,7 @@ Key Activities:
 
 *Plot the regression line.
 
-Visualize actual vs. predicted values.
+*Visualize actual vs. predicted values.
 Technologies Used:
 
 -Python: The programming language used for the analysis and modeling.
